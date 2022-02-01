@@ -1,0 +1,8 @@
+/* Не используется */
+
+.nav__list {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  list-style: none;
+}

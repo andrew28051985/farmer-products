@@ -1,0 +1,26 @@
+/* Не используется, используется styles.js */
+
+.advantages-list {
+  margin-bottom: 100px;
+}
+.advantages-list__wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 1280px;
+  margin: 0 auto;
+}
+.advantages-list__wrapper h2 {
+  margin-bottom: 64px;
+}
+.advantage-list__wrapper-cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  width: 1100px;
+  margin: 0;
+  margin-bottom: 64px;
+  padding: 0;
+  list-style: none;
+}
